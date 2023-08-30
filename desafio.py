@@ -7,11 +7,11 @@ menu = """
 Bem Vindo ao Dro Bank... 
 
 digite a opção desejada:
-1 - Saldo
-2 - Saque
-3 - Deposito
-4 - Extrato
-0 - Finalizar sessão
+[1] - Saldo
+[2] - Saque
+[3] - Deposito
+[4] - Extrato
+[0] - Finalizar sessão
 
 """
 
